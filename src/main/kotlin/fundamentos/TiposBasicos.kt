@@ -22,7 +22,7 @@ fun main(args: Array<String>) {
     println(2 is Int)
     println(2_147_483_648 is Long)
     println(1.0 is Double)
-    
+
     //tudo é objeto
     println(10.dec())
 }
